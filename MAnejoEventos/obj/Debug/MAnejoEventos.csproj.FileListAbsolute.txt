@@ -1,0 +1,6 @@
+C:\Temp\EventRpr\MAnejoEventos\MAnejoEventos\bin\Debug\MAnejoEventos.exe.config
+C:\Temp\EventRpr\MAnejoEventos\MAnejoEventos\bin\Debug\MAnejoEventos.exe
+C:\Temp\EventRpr\MAnejoEventos\MAnejoEventos\bin\Debug\MAnejoEventos.pdb
+C:\Temp\EventRpr\MAnejoEventos\MAnejoEventos\obj\Debug\MAnejoEventos.csprojResolveAssemblyReference.cache
+C:\Temp\EventRpr\MAnejoEventos\MAnejoEventos\obj\Debug\MAnejoEventos.exe
+C:\Temp\EventRpr\MAnejoEventos\MAnejoEventos\obj\Debug\MAnejoEventos.pdb
